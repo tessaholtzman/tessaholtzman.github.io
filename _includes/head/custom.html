@@ -2,8 +2,6 @@
 
 <!-- start custom head snippets -->
 
-<meta name="google-site-verification" content="VaWknkbGKlRGVswAfFD-XAuYli1XEaTMYE-F9LhovHY" />
-
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
@@ -15,5 +13,30 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
+
+<!-- Avatar sizing -->
+<style>
+  .author__avatar,
+  .author__avatar a,
+  .author__avatar img {
+    width: 180px !important;      
+    height: 180px !important;     
+    border-radius: 50% !important;
+    overflow: hidden !important;  
+    display: block !important;
+  }
+
+  .author__avatar img {
+    max-width: none !important;  
+    object-fit: cover !important; 
+    object-position: 80% 20% !important; 
+  }
+</style>
+
+<style>
+  #scheme-toggle,
+  .scheme-toggle,
+  a[aria-label="Toggle dark mode"] { display: none !important; }
+</style>
 
 <!-- end custom head snippets -->

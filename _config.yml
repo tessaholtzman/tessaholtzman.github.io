@@ -12,17 +12,17 @@ site_theme               : "default"
 title                    : "Tessa Holtzman"
 title_separator          : "-"
 name                     : &name "Tessa Holtzman"
-description              : &description "personal description"
-url                      : https://tessaholtzman.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tessaholtzman.github.io"
+description              : &description "PhD Candidate in Sociology at Stanford."
+url                      : "https://tessaholtzman.github.io"
+baseurl                  : "" 
+repository               : "tessaholtzman/tessaholtzman.github.io" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "TessaHoltzman.jpg"
+  avatar           : "/images/TessaHoltzman.jpg"
   name             : "Tessa Holtzman"
   pronouns         : "she/her"  
   bio              : "PhD Candidate, Stanford University Department of Sociology"
@@ -119,7 +119,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "VaWknkbGKlRGVswAfFD-XAuYli1XEaTMYE-F9LhovHY"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -300,6 +300,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-redirect-from
   - jemoji
 
