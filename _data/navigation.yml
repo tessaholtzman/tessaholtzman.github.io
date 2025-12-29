@@ -4,29 +4,11 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
-
-#     url: /talks/    
-
-#   - title: "Teaching"
-#     url: /teaching/    
-#    
-#   - title: "Portfolio"
-#     url: /portfolio/
-#        
-#   - title: "Blog Posts"
-#     url: /year-archive/
-    
-  - title: "CV"
-    url: /files/Holtzman_CV_public.pdf
-    
-#   # - title: "CV"
-#   #   url: /cv-json/
-#    
-#   - title: "Guide"
-#     url: /markdown/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Data & Materials"
+    url: /data-and-materials/
