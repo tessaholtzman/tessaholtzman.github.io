@@ -15,4 +15,4 @@ I grew up in Las Cruces, NM, and received my B.A. in political science from Bate
 
 ## Latest Publications
 * [Torche F., Holtzman T., McDaniel T.W. (2026). Still the Father's Name? Normative Change and Continuity in Children's Surnames, Social Science Research, Volume 135](https://urldefense.com/v3/__https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:*2F*2Fauthors.elsevier.com*2Fc*2F1mXH4,17Roobko/1/0102019c0f5e94f2-18281e08-10fa-49e6-add7-e2b5271219ff-000000/kJKvTl2Y92-VLPfY5bsZD0kNLPQ=463__;JSUlJQ!!G92We9drHetJ8EofZw!d5CasG-apIeBZKRd27aRVJ1cbq8WnWAG0b9dFIqic0V3uBxiMIQLRxSxuAK9i6tHKJfm_k6okUpj2ERuOQuEZQ$)
-* As a research assistant for the Institute for Women's Policy Research, I wrote a number of policy breifs on student parents. You can find these publication [here] (https://iwpr.org/author/tessa/)
+* As a research assistant for the Institute for Women's Policy Research, I wrote a number of policy breifs on student parents. You can find these publication [here](https://iwpr.org/author/tessa/)
