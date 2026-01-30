@@ -13,7 +13,6 @@ I am a PhD candidate in the sociology department at Stanford University. I study
 
 I grew up in Las Cruces, NM, and received my B.A. in political science from Bates College in 2017. I received my M.A. in public policy from the Harvard Kennedy School in 2022. Before beginning my Ph.D. at Stanford, I held a research role at the Institute for Women's Policy Research and a legal assistant role at GLBTQ Legal Advocates and Defenders, an impact litigation law firm. 
 
-## Updates
-* January 2025: Dr. Florencia Torche, Tyler McDaniel, and I have a paper coming out in social science research on the practice of giving children of different-sex parents a patrilineal surname.
-* December 2025: I am excited to announce that I successfully defended my dissertation prospectus! 
-* August 2025: I presented at ASA on a collaboration with Dr. Christin Munsch on flexible work arrangements post-pandemic. 
+## Latest Publications
+* Torche F., Holtzman T., McDaniel T.W. (2026). Still the Father's Name? Normative Change and Continuity in Children's Surnames, Social Science Research, Volume 135, doi: 10.1016/j.ssresearch.2026.103312.
+* As a research assistant for the Institute for Women's Policy Research, I wrote a number of policy breifs on student parents. You can find these publication here: https://iwpr.org/author/tessa/
